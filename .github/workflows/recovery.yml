@@ -16,7 +16,7 @@ env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
   DEVICE: umidigi
   DT_LINK: https://github.com/Newkid24/android_device_umidigi_A7_Pro
-  DT_PATH: device/umidigi/a7pro
+  DT_PATH: umidigi/a7pro
   TARGET: recoveryimage
   TZ: Asia/manila
 
